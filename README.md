@@ -1,6 +1,3 @@
----
-coverY: 0
----
-
-# Page 1
-
+* [English](en)
+* [Espanski](es)
+* [Velika britanija](gb)
